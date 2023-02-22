@@ -124,11 +124,6 @@
           </Properties>
         </Component>
         <Component class="javax.swing.JLabel" name="jLabel6">
-          <Properties>
-            <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="D:\OneDrive - Universiti Kuala Lumpur\SEMESTER 2 JAN 2021\ISB16003 - OBJECT-ORIENTED PROGRAMMING\EXERCISE\Week10\Lab Tutorial 8\LoanCalculator\Icon\loan.png"/>
-            </Property>
-          </Properties>
         </Component>
         <Component class="javax.swing.JLabel" name="jLabel7">
           <Properties>
@@ -140,9 +135,6 @@
         </Component>
         <Component class="javax.swing.JLabel" name="jLabel8">
           <Properties>
-            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
-              <Font name="Segoe UI" size="12" style="0"/>
-            </Property>
             <Property name="text" type="java.lang.String" value="Version 1.0"/>
           </Properties>
         </Component>

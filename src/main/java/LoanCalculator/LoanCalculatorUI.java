@@ -77,8 +77,6 @@ public class LoanCalculatorUI extends javax.swing.JFrame {
         jPanel1.setMaximumSize(new java.awt.Dimension(481, 458));
         jPanel1.setMinimumSize(new java.awt.Dimension(481, 458));
 
-        jLabel6.setIcon(new javax.swing.ImageIcon("D:\\OneDrive - Universiti Kuala Lumpur\\SEMESTER 2 JAN 2021\\ISB16003 - OBJECT-ORIENTED PROGRAMMING\\EXERCISE\\Week10\\Lab Tutorial 8\\LoanCalculator\\Icon\\loan.png")); // NOI18N
-
         labelTitle.setFont(new java.awt.Font("Segoe UI", 0, 24)); // NOI18N
         labelTitle.setText("Loan Calculator");
 
@@ -110,7 +108,6 @@ public class LoanCalculatorUI extends javax.swing.JFrame {
         jLabel5.setText("Total Payment :");
         jPanel2.add(jLabel5, new org.netbeans.lib.awtextra.AbsoluteConstraints(40, 190, -1, -1));
 
-        calculateBtn.setIcon(new javax.swing.ImageIcon("D:\\OneDrive - Universiti Kuala Lumpur\\SEMESTER 2 JAN 2021\\ISB16003 - OBJECT-ORIENTED PROGRAMMING\\EXERCISE\\Week10\\Lab Tutorial 8\\LoanCalculator\\Icon\\calculate.png")); // NOI18N
         calculateBtn.setText("Calculate");
         calculateBtn.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -119,7 +116,6 @@ public class LoanCalculatorUI extends javax.swing.JFrame {
         });
         jPanel2.add(calculateBtn, new org.netbeans.lib.awtextra.AbsoluteConstraints(179, 270, 122, -1));
 
-        jButton1.setIcon(new javax.swing.ImageIcon("D:\\OneDrive - Universiti Kuala Lumpur\\SEMESTER 2 JAN 2021\\ISB16003 - OBJECT-ORIENTED PROGRAMMING\\EXERCISE\\Week10\\Lab Tutorial 8\\storeApp\\Icon\\sweeping.png")); // NOI18N
         jButton1.setText("Clear");
         jButton1.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -148,7 +144,6 @@ public class LoanCalculatorUI extends javax.swing.JFrame {
         jPanel2.add(labelMsg, new org.netbeans.lib.awtextra.AbsoluteConstraints(12, 273, 149, -1));
 
         exitBtn.setBackground(new java.awt.Color(255, 153, 153));
-        exitBtn.setIcon(new javax.swing.ImageIcon("D:\\OneDrive - Universiti Kuala Lumpur\\SEMESTER 2 JAN 2021\\ISB16003 - OBJECT-ORIENTED PROGRAMMING\\EXERCISE\\Week10\\Lab Tutorial 8\\storeApp\\Icon\\exit.png")); // NOI18N
         exitBtn.setText("Exit");
         exitBtn.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -177,7 +172,7 @@ public class LoanCalculatorUI extends javax.swing.JFrame {
         jPanel1Layout.setVerticalGroup(
             jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(jPanel1Layout.createSequentialGroup()
-                .addContainerGap(24, Short.MAX_VALUE)
+                .addContainerGap(44, Short.MAX_VALUE)
                 .addGroup(jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanel1Layout.createSequentialGroup()
                         .addComponent(jLabel6)

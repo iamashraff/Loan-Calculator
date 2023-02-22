@@ -51,12 +51,9 @@ public class frmAbout extends javax.swing.JFrame {
         jLabel10.setFont(new java.awt.Font("Segoe UI", 0, 10)); // NOI18N
         jLabel10.setText("27 April 2021");
 
-        jLabel6.setIcon(new javax.swing.ImageIcon("D:\\OneDrive - Universiti Kuala Lumpur\\SEMESTER 2 JAN 2021\\ISB16003 - OBJECT-ORIENTED PROGRAMMING\\EXERCISE\\Week10\\Lab Tutorial 8\\LoanCalculator\\Icon\\loan.png")); // NOI18N
-
         jLabel7.setFont(new java.awt.Font("Segoe UI", 0, 24)); // NOI18N
         jLabel7.setText("Loan Calculator");
 
-        jLabel8.setFont(new java.awt.Font("Segoe UI", 0, 12)); // NOI18N
         jLabel8.setText("Version 1.0");
 
         jButton1.setText("OK");
